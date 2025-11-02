@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makenthor.com/sitemap.xml
