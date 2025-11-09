@@ -2,33 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Makenthor</title>
-    <link>https://makenthor.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Makenthor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
     <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
     <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://makenthor.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I Built My Hugo Blog with Obsidian and GitHub Pages</title>
+      <link>http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <author>makenthor.lab@gmail.com (Makenthor)</author>
+      <guid>http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/</guid>
+      <description>A step-by-step guide on how I built my Hugo blog, synced it with Obsidian, and deployed it to GitHub Pages using the Blowfish theme.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/featured.png" />
+    </item>
     
     <item>
       <title>Random example in MD lang</title>
-      <link>https://makenthor.com/blog/random-example-in-md-lang/</link>
+      <link>http://localhost:1313/blog/random-example-in-md-lang/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>makenthor.lab@gmail.com (Makenthor)</author>
-      <guid>https://makenthor.com/blog/random-example-in-md-lang/</guid>
+      <guid>http://localhost:1313/blog/random-example-in-md-lang/</guid>
       <description>Project Documentation: Sample File.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://makenthor.com/blog/random-example-in-md-lang/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/random-example-in-md-lang/featured.jpg" />
     </item>
     
     <item>
       <title>AC Leak Fix</title>
-      <link>https://makenthor.com/blog/ac-post/</link>
+      <link>http://localhost:1313/blog/ac-post/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>makenthor.lab@gmail.com (Makenthor)</author>
-      <guid>https://makenthor.com/blog/ac-post/</guid>
+      <guid>http://localhost:1313/blog/ac-post/</guid>
       <description>AC not cooling, high energy use</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://makenthor.com/blog/ac-post/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/ac-post/featured.jpg" />
     </item>
     
   </channel>

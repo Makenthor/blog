@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Makenthor</title>
+    <link>http://localhost:1313/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Makenthor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
+    <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
+    <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I Built My Hugo Blog with Obsidian and GitHub Pages</title>
+      <link>http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <author>makenthor.lab@gmail.com (Makenthor)</author>
+      <guid>http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/</guid>
+      <description>A step-by-step guide on how I built my Hugo blog, synced it with Obsidian, and deployed it to GitHub Pages using the Blowfish theme.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/how-i-built-my-hugo-blog-with-obsidian-and-github-pages/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

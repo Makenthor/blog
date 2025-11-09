@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Makenthor</title>
-    <link>https://makenthor.com/about-me/</link>
+    <link>http://localhost:1313/about-me/</link>
     <description>Recent content in About Me on Makenthor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
     <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
     <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
-    <atom:link href="https://makenthor.com/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about-me/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

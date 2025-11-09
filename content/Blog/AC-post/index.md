@@ -8,6 +8,7 @@ categories:
   - air-conditioning
 featuredImage: default-post-image.jpg
 summary: AC not cooling, high energy use
+draft: false
 ---
 problem: "AC not cooling, high energy use"
 tools: ["multimeter", "refrigerant gauge"]
@@ -31,5 +32,5 @@ Found low refrigerant using a gauge. Identified a leak in the evaporator coil.
 
 **Before** ![Before](temp1.jpg)
 **After**
-<!-- markdownlint-disable MD033 -->
+
 <img class="thumbnailshadow" src="temp2.jpg" alt="Image Corrupted"/>

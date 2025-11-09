@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Air-Conditioning on Makenthor</title>
-    <link>https://makenthor.com/categories/air-conditioning/</link>
+    <link>http://localhost:1313/categories/air-conditioning/</link>
     <description>Recent content in Air-Conditioning on Makenthor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
     <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
     <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://makenthor.com/categories/air-conditioning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/air-conditioning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AC Leak Fix</title>
-      <link>https://makenthor.com/blog/ac-post/</link>
+      <link>http://localhost:1313/blog/ac-post/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>makenthor.lab@gmail.com (Makenthor)</author>
-      <guid>https://makenthor.com/blog/ac-post/</guid>
+      <guid>http://localhost:1313/blog/ac-post/</guid>
       <description>AC not cooling, high energy use</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://makenthor.com/blog/ac-post/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/ac-post/featured.jpg" />
     </item>
     
   </channel>

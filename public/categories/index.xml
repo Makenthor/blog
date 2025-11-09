@@ -2,31 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Makenthor</title>
-    <link>https://makenthor.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Makenthor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
     <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
     <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://makenthor.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dev</title>
+      <link>http://localhost:1313/categories/dev/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <author>makenthor.lab@gmail.com (Makenthor)</author>
+      <guid>http://localhost:1313/categories/dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/categories/tutorial/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <author>makenthor.lab@gmail.com (Makenthor)</author>
+      <guid>http://localhost:1313/categories/tutorial/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Coding</title>
-      <link>https://makenthor.com/categories/coding/</link>
+      <link>http://localhost:1313/categories/coding/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>makenthor.lab@gmail.com (Makenthor)</author>
-      <guid>https://makenthor.com/categories/coding/</guid>
+      <guid>http://localhost:1313/categories/coding/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Air-Conditioning</title>
-      <link>https://makenthor.com/categories/air-conditioning/</link>
+      <link>http://localhost:1313/categories/air-conditioning/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
       <author>makenthor.lab@gmail.com (Makenthor)</author>
-      <guid>https://makenthor.com/categories/air-conditioning/</guid>
+      <guid>http://localhost:1313/categories/air-conditioning/</guid>
       <description></description>
       
     </item>

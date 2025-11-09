@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Makenthor</title>
-    <link>https://makenthor.com/videos/</link>
+    <link>http://localhost:1313/videos/</link>
     <description>Recent content in Videos on Makenthor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>makenthor.lab@gmail.com (Makenthor)</managingEditor>
     <webMaster>makenthor.lab@gmail.com (Makenthor)</webMaster>
     <copyright>&amp;copy; 2025 Makenthor. All Rights Reserved.</copyright>
-    <atom:link href="https://makenthor.com/videos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/videos/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
